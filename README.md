@@ -14,8 +14,8 @@ How can Cyclistic use digital media to influence casual riders to become members
 
 Dataset was orginally taken from https://divvy-tripdata.s3.amazonaws.com/index.html (Only for year 2021)
 
-The data i used can be found in the project repository, there are two files, 1 is dirty data and other is manipulated_data,
-(which i maipulated for the analysis) : https://github.com/mysto-007/PortfolioProjects/tree/main
+The data i used can be found in the drive line, there are two files, 1 is dirty data and other is manipulated_data,
+(which i maipulated for the analysis) : https://drive.google.com/drive/folders/1QZEYla_QPiWwtHHqmDTjkNnAN_CaExyt?usp=sharing
 
 Analysis procedure:
 

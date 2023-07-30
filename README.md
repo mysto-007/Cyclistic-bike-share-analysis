@@ -7,7 +7,9 @@
 A detailed and thorough step-by-step analysis process performed on the Cyclistic bike-share dataset to answer the following stakeholder questions:
 
 How do annual members and casual riders use Cyclistic bikes differently?
+
 Why would casual riders buy Cyclistic annual memberships?
+
 How can Cyclistic use digital media to influence casual riders to become members?
 
 Dataset was orginally taken from https://divvy-tripdata.s3.amazonaws.com/index.html (Only for year 2021)

@@ -1,6 +1,7 @@
 # PortfolioProjects
 
  Tableau visualization : https://public.tableau.com/app/profile/hanan.saeed/viz/Cyclistic_bike-shareCapstoneProjectGoogleDataAnalytics/Dashboard1
+ 
 • SQL Queries used are in the project repository:  https://github.com/mysto-007/PortfolioProjects/tree/main
 
 A detailed and thorough step-by-step analysis process performed on the Cyclistic bike-share dataset to answer the following stakeholder questions:
